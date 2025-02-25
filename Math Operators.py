@@ -14,24 +14,31 @@ print ("Please enter your name")
 name=input()
 
 #this is multiplication
-print (2*3)
+b=2
+print (b*3)
 
 #this is division
-print (5/2)
+c=5
+print (c/2)
 
 #this is addtion 
-print (2+3)
+d=2
+print (+3)
 
 #this is subtraction
-print (3-2)
+e=3
+print (e-2)
 
 #this is modulus, this shows the remainder when you divide
-print (23/4)
+print (23%4)
 
 #this is to the power of. ** is used for exponents
 print (2**3)
 
+
 import math
 #this is sqr root, you have to use import math to use it
 print(math.sqrt(9))
+
+#Discriminant
 
