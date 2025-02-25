@@ -5,9 +5,3 @@ print (2.2+2.2)
 #this is boolean, a true or false statement
 logged_in=True 
 #this is char, a single character
-charA='a'
-#this is string, a combination of characters
-str="Hello World" 
- 
-
- 
