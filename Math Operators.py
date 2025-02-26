@@ -41,4 +41,7 @@ print ("the exponent is",exponent)
 
 import math
 
+root=(math.sqrt(9))
+print("the root is",root)
+
 
