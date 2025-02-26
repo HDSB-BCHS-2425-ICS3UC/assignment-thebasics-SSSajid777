@@ -14,31 +14,34 @@ print ("Please enter your name")
 name=input()
 
 #this is multiplication
-b=2
-print (b*3)
+product=2*3
+print ("the product is",product)
 
-#this is division
-c=5
-print (c/2)
+
+#this is division 
+quotient=4/2
+print ("the quotient is",quotient)
 
 #this is addtion 
-d=2
-print (+3)
+sum=2+5
+print ("the sum is",sum)
 
 #this is subtraction
-e=3
-print (e-2)
+difference=10-2
+print ("the difference is",difference)
 
 #this is modulus, this shows the remainder when you divide
-print (23%4)
+remainder=(23%4)
+print ("the remainder is",remainder)
 
 #this is to the power of. ** is used for exponents
-print (2**3)
+exponent=(2**3)
+print ("the exponent is",exponent)
 
 
 import math
 #this is sqr root, you have to use import math to use it
-print(math.sqrt(9))
+root=(math.sqrt(9))
+print ("the root is",root)
 
-#Discriminant
 
