@@ -40,8 +40,5 @@ print ("the exponent is",exponent)
 
 
 import math
-#this is sqr root, you have to use import math to use it
-root=(math.sqrt(9))
-print ("the root is",root)
 
 
