@@ -40,5 +40,5 @@ import math
 #this is sqr root, you have to use import math to use it
 print(math.sqrt(9))
 
-#Discriminant
+
 
