@@ -3,7 +3,7 @@
 # this is an integer as output has no decimals
 integer_result=10
 print("Integer Example:",integer_result)
-#this is a float as it has decimal number
+#this is a float as it has decimal number, double is similar to float and it is not commonly used so it is not shown
 float_result=10.4
 print("Float Example:",float_result)
 #this is boolean, a true or false statement
