@@ -93,7 +93,7 @@ print("The volume of the sphere is:",sphere_volume)
 #input from user
 cone_radius= float(input("Enter r(radius), then press Enter:"))
 cone_height= float(input ("Enter h(height), then press Enter:"))
-cone_volume= (1/3) * (math.pi) * (cone_radius*2) * (cone_height)
+cone_volume= (1/3) * (math.pi) * (cone_radius**2) * (cone_height)
 
 #shows the volume of cone
 print("The volume of the cone is:", cone_volume)
