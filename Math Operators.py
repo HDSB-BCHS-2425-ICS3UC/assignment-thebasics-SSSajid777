@@ -1,5 +1,6 @@
-
-#python basics assignment by Sajid Ihsan Abdullah
+#Author: Sajid Ihsan Abdullah
+#Date Modified: Feb 28, 2025
+# Description: Giving example of variables, math operations and input
 
 
 
