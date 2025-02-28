@@ -1,4 +1,7 @@
-#python basics assignment
+
+#python basics assignment by Sajid Ihsan Abdullah
+
+
 
 # this is an integer as output has no decimals
 integer_result=10
