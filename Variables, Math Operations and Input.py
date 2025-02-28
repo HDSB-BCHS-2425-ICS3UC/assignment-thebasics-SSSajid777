@@ -1,6 +1,6 @@
 #Author: Sajid Ihsan Abdullah
 #Date Modified: Feb 28, 2025
-# Description: Giving example of variables, math operations and input
+#Description: Giving example of variables, math operations and input
 
 
 
@@ -59,7 +59,7 @@ print("the root is",root)
 
 #input from user
 
-a=float(input("Type the value of a, then press Enter:"))
+a=float(input("To find the discriminant, type the value of a (coefficient), then press Enter:"))
 b=float(input("Type the value of b, then press Enter:"))
 c=float(input("Type the value of c, then press Enter:"))
 
@@ -69,10 +69,11 @@ print("The discriminant is:",delta)
 
 #3D Volume
 
+
 #Cube
 
 #input from user, we have to cast the input for all the shapes as its a string otherwise
-cube_side=float(input("Enter A(lenght of edge), then press Enter:"))
+cube_side=float(input("To find the volume of Cube, enter A(lenght of edge), then press Enter:"))
 
 #formula of volume of cube
 
@@ -84,7 +85,7 @@ print("The volume of the cube is:",cube_volume)
 #Sphere
 
 #input from user
-sphere_radius= float(input("Enter r(radius), then press Enter:"))
+sphere_radius= float(input("To find the volume of Sphere, enter r(radius), then press Enter:"))
 
 #formula of volume of sphere
 sphere_volume= (4/3) * (math.pi) * (sphere_radius**3)
@@ -95,7 +96,7 @@ print("The volume of the sphere is:",sphere_volume)
 #Cone
 
 #input from user
-cone_radius= float(input("Enter r(radius), then press Enter:"))
+cone_radius= float(input("To find volume of Cone, enter r(radius), then press Enter:"))
 cone_height= float(input ("Enter h(height), then press Enter:"))
 cone_volume= (1/3) * (math.pi) * (cone_radius**2) * (cone_height)
 
@@ -106,7 +107,7 @@ print("The volume of the cone is:", cone_volume)
 #Cylinder 
 
 #input from user
-cylinder_radius= float(input("Enter r(radius), then press Enter:"))
+cylinder_radius= float(input("To find the volume of Cylinder, enter r(radius), then press Enter:"))
 cylinder_height= float(input ("Enter h(height), then press Enter:"))
 cylinder_volume= (math.pi) * (cylinder_radius**2) * (cylinder_height)
 
